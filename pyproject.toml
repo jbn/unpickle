@@ -1,12 +1,13 @@
 [project]
 name = "unpickle"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.1"
+description = "Tools for working with pickled files"
 readme = "README.md"
 authors = [
     { name = "generativist", email = "jbn@abreka.com" }
 ]
 requires-python = ">=3.10.12"
+repository = "https://github.com/jbn/unpickle"
 dependencies = [
     "click>=8.2.1",
     "numpy>=2.2.6",
